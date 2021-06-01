@@ -1,0 +1,11 @@
+{
+    "name": "creditor/hexlet-php",
+    "description": "php study project",
+    "authors": [
+        {
+            "name": "Aleksandr Saitgalin",
+            "email": "cred1tor@yandex.ru"
+        }
+    ],
+    "require": {}
+}
