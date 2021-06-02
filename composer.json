@@ -7,5 +7,7 @@
             "email": "cred1tor@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.34"
+    }
 }
