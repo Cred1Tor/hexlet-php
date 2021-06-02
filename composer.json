@@ -1,5 +1,10 @@
 {
     "name": "creditor/hexlet-php",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "description": "php study project",
     "authors": [
         {
